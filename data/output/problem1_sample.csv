@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/09 11:19:12 INFO python.PythonRunner: Times: total = 42, boot = -11, init = 52, finish = 1",INFO
+"17/06/08 14:56:27 INFO python.PythonRunner: Times: total = 38, boot = 9, init = 29, finish = 0",INFO
+17/06/09 16:37:32 INFO executor.Executor: Running task 14.0 in stage 10.0 (TID 414),INFO
+"17/06/09 16:58:43 INFO python.PythonRunner: Times: total = 38, boot = -278, init = 316, finish = 0",INFO
+"17/06/08 22:15:00 INFO python.PythonRunner: Times: total = 38, boot = -25, init = 63, finish = 0",INFO
+"17/06/10 15:16:38 INFO python.PythonRunner: Times: total = 41, boot = 7, init = 34, finish = 0",INFO
+17/06/09 12:52:43 INFO storage.BlockManager: Removing RDD 9305,INFO
+"17/06/09 09:48:04 INFO storage.MemoryStore: Block rdd_388_26 stored as bytes in memory (estimated size 81.0 B, free 1275.4 KB)",INFO
+17/06/09 15:53:34 INFO executor.Executor: Running task 2.0 in stage 1385.0 (TID 60042),INFO
+"17/06/09 12:10:57 INFO python.PythonRunner: Times: total = 38, boot = -49, init = 87, finish = 0",INFO
