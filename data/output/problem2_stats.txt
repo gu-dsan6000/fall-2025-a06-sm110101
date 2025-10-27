@@ -1,0 +1,9 @@
+Total unique clusters: 4
+Total applications: 145
+Average applications per cluster: 36.25
+
+Most heavily used clusters:
+  Cluster 1485248649253: 142 applications
+  Cluster 1448006111297: 1 applications
+  Cluster 1460011102909: 1 applications
+  Cluster 1472621869829: 1 applications
