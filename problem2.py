@@ -14,7 +14,7 @@ Key Questions to Answer:
 - Which clusters are most heavily used?
 - What is the timeline of application execution across clusters?
 
-**Expected output 1 (timeline):**
+**Expected output 1 (timeline):** 
 ```
 cluster_id,application_id,app_number,start_time,end_time
 1485248649253,application_1485248649253_0001,0001,2017-03-29 10:04:41,2017-03-29 10:15:23
